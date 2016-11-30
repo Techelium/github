@@ -1,9 +1,12 @@
 hi this my program
 mango
 orange
-blue
+blue      
 green
 apple
 red
 sky blue
+apple 
+
+
 
